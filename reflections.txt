@@ -1,0 +1,23 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+
+* What new skills have you learned?
+  
+The skills which I have newly learned other than the things which have been taught during the course are:
+1. Use of superscript
+2. Use of strikethrough
+3. Use of horizontal rule
+4. To make a part of the heading non bold. As shown in the mockup article, the second heading has an non bold part and even third heading was also not bold, so I have learnt how to make a part of the head non bold using span tag by studying in stackoverflow website which has been very helpful to learn the syntax of some unknown commands.
+5. Concept of Quirks Mode, Almost Standards Mode, Full Standards Mode.
+ 
+* What has been easy?
+  
+Nothing specifically has been easy, its just because I have been working day and night over this. I remembered the commands and tags which made translating the mock-up article to html easy. Also initially I thought I had to type the whole content of the mock-up article but udacity has made it easy and good, so that we can focus on the main part and dedicate the whole time only on the main part. 
+
+* What has been difficult?
+
+Initially while going through the syntax of adding an image, adding a link, adding a hyperlink,etc has been a little confusing, but due to the continous assignements which made me practise I was successful remembering the syntax.
+
+* How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+
+As I have mentioned in the very start, not giving up, not getting frustrated, taking a small break and rethinking, these all things have been really helpful during my learning through the course. There were some points where my code being correct but the answer review was telling that it was wrong and telling me to try again, So intially I thought there was something wrong with my program but after sometime I understood that the asnwer they were seeking was to the point and were not asking me to type the whole program. Since I am still in the initial phase of my journey I didn't face any bigger problems which usually the developers face as said in a research.
